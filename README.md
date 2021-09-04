@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raphael Yudi</h1>
 <h3 align="center">I've always been a tech enthusiast. What drives me to the development sector relies on the balanced perfomance that a quality data and an awesome interface can bring to the table.</h3>
 
-- 🔭 I’m currently working on **Koi Tech**
+- 🔭 I’m currently working at **Koi Tech**
 
 - 🌱 I’m currently learning **React**
 
